@@ -1,5 +1,5 @@
 html {
-    background: black url(https://picsum.photos/seed/apple/1920/1080?grayscale);
+    background: black url(https://picsum.photos/seed/potato/1920/1080?grayscale);
     background-size: cover;
     font-family: "helvetica neue";
     text-align: center;
@@ -7,6 +7,7 @@ html {
 }
 
 body {
+    height: 100vh;
     margin: 0;
     font-size: 2rem;
     display: flex;
